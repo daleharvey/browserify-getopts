@@ -1,0 +1,20 @@
+{
+  "name": "browserify-getopts",
+  "version": "0.0.1",
+  "description": "Helper for options passing in browserified modules",
+  "main": "browserify-getopts.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/daleharvey/browserify-getopts.git"
+  },
+  "homepage": "https://github.com/daleharvey/browserify-getopts",
+  "keywords": [
+    "browserify"
+  ],
+  "author": {
+    "name": "Dale Harvey",
+    "email": "dale@arandomurl.com",
+    "url": "http://arandomurl.com"
+  },
+  "license": "Apache"
+}
